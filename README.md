@@ -1,5 +1,5 @@
 # PopGo
-This is the pytorch version (pytorch 1.9.1) of the implementation of the paper: "PopGo: Reducing Popularity Bias in Collaborative Filtering"
+This is the pytorch version (pytorch 1.9.1) of the implementation of the paper: "Robust Collaborative Filtering to Popularity Distribution Shift"
 Our data and code for data splitting will be released soon.
 
 Four files containing codes:  
