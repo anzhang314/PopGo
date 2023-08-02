@@ -1,0 +1,6 @@
+*.out
+*.txt
+*.tar
+*.pyc
+*.o
+*.so
