@@ -14,8 +14,23 @@ to install tools used in evaluation
 ```python main.py --modeltype  MACRMF```
 
  
-Change "MACRMF" to the model you want :
+Change "MACRMF" to the model you want:
 
 BPRMF, BCEMF, IPSMF, MACRMF, CausEMF, PopGoMF, LGN, IPSLGN
+
+
+
+
+# Citation
+@article{PopGo,
+  author       = {An Zhang and
+                  Wenchang Ma and
+                  Jingnan Zheng and
+                  Xiang Wang and
+                  Tat{-}Seng Chua},
+  title        = {Robust Collaborative Filtering to Popularity Distribution Shift},
+  journal      = {TOIS},
+  year         = {2023}
+}
 
 
