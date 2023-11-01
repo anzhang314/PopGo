@@ -24,6 +24,7 @@ BPRMF, BCEMF, IPSMF, MACRMF, CausEMF, PopGoMF, LGN, IPSLGN
 
 
 # Citation
+```bash
 @article{PopGo,
   author       = {An Zhang and
                   Wenchang Ma and
@@ -34,5 +35,5 @@ BPRMF, BCEMF, IPSMF, MACRMF, CausEMF, PopGoMF, LGN, IPSLGN
   journal      = {TOIS},
   year         = {2023}
 }
-
+```bash
 
