@@ -20,7 +20,7 @@ BPRMF, BCEMF, IPSMF, MACRMF, CausEMF, PopGoMF, LGN, IPSLGN
 
 # Framework
 
-![Alt text](PopGo/framework.png)
+![Alt text](https://github.com/anzhang314/PopGo/blob/main/framework.png)
 
 
 # Citation
