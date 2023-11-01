@@ -35,5 +35,5 @@ BPRMF, BCEMF, IPSMF, MACRMF, CausEMF, PopGoMF, LGN, IPSLGN
   journal      = {TOIS},
   year         = {2023}
 }
-```bash
+```
 
