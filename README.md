@@ -18,7 +18,9 @@ Change "MACRMF" to the model you want:
 
 BPRMF, BCEMF, IPSMF, MACRMF, CausEMF, PopGoMF, LGN, IPSLGN
 
+# Framework
 
+![Alt text](framework.pdf)
 
 
 # Citation
